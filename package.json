@@ -6,18 +6,12 @@
   "scripts": {
     "start": "node src/app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/uniqueshah/weather-box.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/uniqueshah/weather-box/issues"
-  },
-  "homepage": "https://github.com/uniqueshah/weather-box#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "hbs": "^4.0.1",
+    "request": "^2.88.0"
   }
 }
